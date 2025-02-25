@@ -5,12 +5,11 @@ This repository contains my solutions to the **SQL 50 Challenge** on [LeetCode](
 
 The **SQL 50 Challenge** focuses on:
 1. Common Table Expressions (CTEs)
-2. Basic Joins
-3. Basic Aggregate Functions
-4. Sorting and grouping
-5. Advanced Select and joins
-6. Subqueries
-7. Advanced String Functions / Regex / Clause
+2. Basic and Advanced Joins
+3. Aggregate Functions
+4. Sorting and Grouping
+5. Subqueries
+6. Advanced String Functions, including Regex and Clauses
 
 ## Website
 The website created documents the thought process and solutions for each problem in the SQL 50 Challenge.<br>
