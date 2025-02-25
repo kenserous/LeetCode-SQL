@@ -4,9 +4,13 @@ This repository contains my solutions to the **SQL 50 Challenge** on [LeetCode](
 **Currently a work in progress** (10/50 problems completed). This repository will be updated weekly.
 
 The **SQL 50 Challenge** focuses on:
-1. Query Optimisation
-2. Window Functions
-3. Common Table Expressions (CTEs) and Joins
+1. Common Table Expressions (CTEs)
+2. Basic Joins
+3. Basic Aggregate Functions
+4. Sorting and grouping
+5. Advanced Select and joins
+6. Subqueries
+7. Advanced String Functions / Regex / Clause
 
 ## Website
 The website created documents the thought process and solutions for each problem in the SQL 50 Challenge.<br>
