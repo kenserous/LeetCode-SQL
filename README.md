@@ -12,7 +12,7 @@ The **SQL 50 Challenge** focuses on:
 6. Advanced String Functions, including Regex and Clauses
 
 ## Website
-The website created documents the thought process and solutions for each problem in the SQL 50 Challenge.<br>
+The website created documents the thought process and solutions for each problem in the SQL 50 Challenge. Still a work in progress. <br>
 The website is created using the template **Hyperspace from [HTML5UP](https://html5up.net/)**. <br>
 The template is free to use under the **[CCA 3.0 license](https://html5up.net/license)**.
 
